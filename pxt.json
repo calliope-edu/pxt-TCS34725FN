@@ -1,0 +1,19 @@
+{
+    "name": "TCS3414",
+    "version": "0.0.1",
+    "description": "TCS3414 for MakeCode",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/de/TCS3414-strings.json",
+        "_locales/de/TCS3414-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
