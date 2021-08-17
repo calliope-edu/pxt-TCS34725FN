@@ -1,8 +1,8 @@
 /**
- * TCS3414   block
+ * TCS34725   block
  */
-//%color=#444444 icon="\uf185" block="TCS3414  "
-namespace TCS3414   {
+//%color=#444444 icon="\uf185" block="TCS34725  "
+namespace TCS34725   {
     
     function init(){
         pins.i2cWriteNumber(
