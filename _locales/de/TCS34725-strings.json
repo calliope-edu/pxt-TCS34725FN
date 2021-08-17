@@ -1,0 +1,6 @@
+{
+	"TCS34725.readRed|block": "Rot",
+	"TCS34725.readGreen|block": "Grün",
+	"TCS34725.readBlue|block": "Blau",
+	"TCS34725.readClear|block": "Weiß"
+}
