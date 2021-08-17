@@ -1,0 +1,6 @@
+{
+	"TCS34725.readRed": "Liest den Rot Wert",
+	"TCS34725.readGreen": "Liest den Grün Wert",
+	"TCS34725.readBlue": "Liest den Blau Wert",
+	"TCS34725.readClear": "Liest den Weiß Wert"
+}
