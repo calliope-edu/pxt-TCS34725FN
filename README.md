@@ -1,3 +1,3 @@
-# TCS3414
+# TCS34725
 
-makecode Blocks for TCS3414
+makecode Blocks for TCS34725
