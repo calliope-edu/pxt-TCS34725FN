@@ -1,3 +1,3 @@
-# TCS34725
+# TCS34725FN RGB Color Sensor
 
-makecode Blocks for TCS34725
+makecode Blocks for TCS34725FN
