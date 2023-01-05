@@ -1,7 +1,7 @@
 {
     "name": "TCS34725",
     "version": "0.0.1",
-    "description": "TCS34725 for MakeCode",
+    "description": "RGB-Color-Sensor for MakeCode",
     "dependencies": {
         "core": "*"
     },
