@@ -1,7 +1,7 @@
 {
-    "name": "RGB-Color-Sensor-TCS34725",
+    "name": "RGB-Color-Sensor",
     "version": "0.0.1",
-    "description": "RGB-Color-Sensor for MakeCode",
+    "description": "RGB-Color-Sensor TCS34725 for MakeCode",
     "dependencies": {
         "core": "*"
     },
