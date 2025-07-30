@@ -73,7 +73,7 @@ This example continuously reads the detected color and displays its name on the 
 
 ## Supported targets
 
-  * pxt/calliopemini
+  * PXT/calliopemini
 
 ## License
 
